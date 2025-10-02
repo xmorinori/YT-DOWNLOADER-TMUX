@@ -1,35 +1,35 @@
-# yt-downloader  
+# YT DOWNLOADER
 YouTube Downloader (Python) – for Android/Termux
 
-## 📦 Usage
+## USAGE
 
-### 🔧 First-time Setup
-Run the following commands to install all the required libraries:
+### SETUP
+Run the Following Commands to Install All The Required Libraries:
 ```bash
 cd yt-downloader
 bash install.sh
 ```
 
-### 🎵 Download MP3
+### DOWNLOAD MP3
 ```bash
 cd yt-downloader
 python mp3.py
 ```
 
-### 📹 Download MP4
+### DOWNLOAD MP4
 ```bash
 cd yt-downloader
 python mp4.py
 ```
 
-## ✏️ Modify the Code
+## MODIFY THE CODE MIT
 
-If you plan to edit the code, make sure to **first create a folder in your internal storage** before cloning the repository.  
-Example path:
+Make Sure to **First Create A Folder in Your Internal Storage** Before Cloning the Repository.  
+Example Path:
 ```
 /sdcard/your_folder_name
 ```
-Then clone the repository into that folder:
+Then Clone the Repository Into that Folder:
 ```bash
 cd /sdcard/your_folder_name
 git clone https://github.com/your-username/yt-downloader.git
@@ -37,7 +37,7 @@ git clone https://github.com/your-username/yt-downloader.git
 
 ---
 
-## 📂 File Structure
+## FILE STRUCTURE
 
 ### `install.sh`
 ```bash
@@ -87,7 +87,7 @@ print("Download completed!")
 
 ---
 
-✅ Tested on Termux (Android)  
-📜 Developed with Python & Pytube
+✅ TESTED ON TERMUX / ANDROID  
+📜 DEVELOPED BY PYTHON & PYLIB
 
 Xmorinori®
