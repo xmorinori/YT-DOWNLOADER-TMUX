@@ -1,5 +1,5 @@
 # YT DOWNLOADER
-YouTube Downloader (Python) – for Android/Termux
+A PYTHON YOUTUBE DOWNLOADER FOR TERMUX ANDROID
 
 ## USAGE
 
